@@ -3,7 +3,7 @@ Modpack for a server KROCES.
 
 ### How to install the modpack ?
 - Install the [CurseForge application](https://www.curseforge.com/).
-- Download the latest version in the [Releases](https://github.com/Steve557mag-fr/Kroces-Modpack-/releases) (only the zip file ; KROCES-X.Y.Z.zip)
+- Download the latest version in the [Releases](https://github.com/Steve557mag-fr/Kroces-Modpack-/releases) (only the zip file ; KROCES_XY.zip)
 ![image](https://github.com/user-attachments/assets/ce67a652-681a-45a1-aea8-cfefa74cc86d)
 
 
